@@ -1,0 +1,14 @@
+springboot-course-service/
+├── src/main/java/com/example/courseservice
+│   ├── model
+│   │   └── Course.java
+│   ├── repository
+│   │   └── CourseRepository.java
+│   ├── service
+│   │   └── CourseService.java
+│   ├── controller
+│   │   └── CourseController.java
+│   └── CourseserviceApplication.java
+├── src/main/resources
+│   └── application.properties
+└── pom.xml
