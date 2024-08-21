@@ -1,0 +1,6 @@
+POST /api/courses
+Body: {
+  "title": "Introduction to Computer Architecture",
+  "courseCode": "CS102",
+  "description": "This course provides a basic introduction to the architecture and algorithms of computer systems."
+}
